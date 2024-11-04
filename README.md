@@ -1,6 +1,6 @@
 # Color Change React
 
-Este projeto é um simulador de mudança de cor, desenvolvido com React e Vite. O objetivo da aplicação é permitir que o usuário inicie e pare a mudança automática da cor de fundo da tela a cada 2 segundos. O projeto utiliza a fonte "Poppins" para melhorar a estética visual.
+Este projeto é um simulador de mudança de cor, desenvolvido com React e Vite(Turma Full Stack 2 (+praTi e Codifica) - 2024/2 aula 47). O objetivo da aplicação é permitir que o usuário inicie e pare a mudança automática da cor de fundo da tela a cada 2 segundos. O projeto utiliza a fonte "Poppins" para melhorar a estética visual.
 
 ![image](https://github.com/user-attachments/assets/b2013306-8ff3-4158-aa4f-b7a96ae23b93)
 
